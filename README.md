@@ -2,14 +2,6 @@
 
 A real-time ride-hailing simulation with a Python FastAPI backend and React TypeScript frontend. The system simulates drivers, riders, and ride requests on a grid-based city with intelligent dispatch logic.
 
-## 🎮 Demo
-
-Watch the ride-hailing simulation in action:
-
-![Simulation Demo](Screen%20Recording%202025-07-31%20at%206.25.35%20PM.mov)
-
-*The simulation demonstrates intelligent driver assignment, real-time movement, and the queue system ensuring no riders are ever rejected.*
-
 ## 🚀 Features
 
 - **Real-time Simulation**: Tick-based advancement with live updates
