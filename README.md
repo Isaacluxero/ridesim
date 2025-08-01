@@ -6,7 +6,7 @@ A real-time ride-hailing simulation with a Python FastAPI backend and React Type
 
 Watch the ride-hailing simulation in action:
 
-![Simulation Demo](https://youtu.be/hKBCOxJLuZY)
+https://youtu.be/hKBCOxJLuZY
 
 *The simulation demonstrates intelligent driver assignment, real-time movement, and the queue system ensuring no riders are ever rejected.*
 
